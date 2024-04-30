@@ -12,4 +12,5 @@ export default function(listStudents, city, newGrades) {
     }
     return single;
   });
+  return newStudents;
 }
